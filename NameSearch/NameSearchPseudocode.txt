@@ -1,0 +1,16 @@
+on load form,
+	initialize the form's components
+on search click,
+	check which textbox has an entry
+		
+		if boy's textbox has an entry and girl's doesn't
+			create a list from the boy's file
+			compare the entry to the boy's list
+		if girl's textbox has an entry and boy's doesn't
+			create a list from the girl's file
+			compare the entry to the girl's list
+		if both textboxes have entries
+			create both lists from both files
+			compare both entries to their respective lists
+		if no textboxes have entries
+			prompt for valid user entry

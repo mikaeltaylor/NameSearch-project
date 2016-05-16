@@ -1,0 +1,9 @@
+c:\users\mikae\documents\visual studio 2012\Projects\NameSearch\NameSearch\bin\Debug\NameSearch.exe.config
+c:\users\mikae\documents\visual studio 2012\Projects\NameSearch\NameSearch\bin\Debug\NameSearch.exe
+c:\users\mikae\documents\visual studio 2012\Projects\NameSearch\NameSearch\bin\Debug\NameSearch.pdb
+c:\users\mikae\documents\visual studio 2012\Projects\NameSearch\NameSearch\obj\Debug\NameSearch.csprojResolveAssemblyReference.cache
+c:\users\mikae\documents\visual studio 2012\Projects\NameSearch\NameSearch\obj\Debug\NameSearch.Form1.resources
+c:\users\mikae\documents\visual studio 2012\Projects\NameSearch\NameSearch\obj\Debug\NameSearch.Properties.Resources.resources
+c:\users\mikae\documents\visual studio 2012\Projects\NameSearch\NameSearch\obj\Debug\NameSearch.csproj.GenerateResource.Cache
+c:\users\mikae\documents\visual studio 2012\Projects\NameSearch\NameSearch\obj\Debug\NameSearch.exe
+c:\users\mikae\documents\visual studio 2012\Projects\NameSearch\NameSearch\obj\Debug\NameSearch.pdb
